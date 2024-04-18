@@ -43,3 +43,32 @@ The choice of technologies used in the development of HackQuest is crucial to en
 ## Database Management:
 - ** SQLite3 :** SQLite is a built-in relational database engine. It is simple to set up and use, making it an excellent choice for lightweight web applications.
 - ** JSON :** The use of JSON is crucial for HackQuest, as it allows storing all the game's questions in an easily accessible and manipulable format.
+
+# Gameplay of HackQuest :  
+
+## Description of the Game and its Functioning : 
+
+HackQuest positions itself as a pedagogical revolution in the world of serious games. From the very beginning, the player is immersed in an interactive and personalized dashboard, reflecting their successes and journey in the game. The interface, rich and intuitive, allows navigation between game history, earnings tracking, and global ranking.
+
+## Objectives and Rules of the Game : 
+
+The primary objective of HackQuest is to raise awareness among players about cyber threats through a fun and educational format. The game unfolds in a series of thematic quizzes, each aiming to test players' knowledge on specific subjects such as attacks, DoS, DDoS, phishing, and spoofing. The rules are simple but designed to stimulate learning: correctly answer questions of increasing difficulty to accumulate points and climb the ranks.
+
+## Game Mechanics : 
+HackQuest's game mechanics are finely crafted. They include help systems inspired by "Who Wants to Be a Millionaire?", allowing players to ask a friend, eliminate half of the answers, or poll the audience. Each successful question results in the award of points in the form of money and a detailed explanation, while each mistake only provides the detailed explanation, thus promoting an active and continuous learning cycle.
+
+## Quizzes : 
+
+Quizzes are the heart of the HackQuest experience. Through varied and contextualized questions, players explore the depth and complexity of the cybersecurity domain. Screenshots illustrate the quiz interface, where pointed questions invite thoughtful consideration, and where each choice of answer can be an opportunity for valuable learning.
+
+## Score : 
+
+The scoring system is designed to reward perseverance and accuracy. Each correct answer increases the player's balance, visible on the dashboard, which also displays recent earnings and offers the opportunity to convert these earnings into real or virtual rewards. This approach reinforces the rewarding aspect of the game and encourages players to invest more in learning.
+
+## Competition : 
+
+Competition is a central element of HackQuest. Players are not only competing with themselves, seeking to surpass their previous scores, but also with the community. The ranking, highlighted in the screenshots, shows real-time tracking of the top players, injecting a healthy and motivating spirit of competition.
+
+## Synthesis : 
+
+HackQuest, through its thoughtful gameplay, offers an immersive experience that merges intellectual challenges and entertainment. It succeeds in popularizing often complex cybersecurity concepts, making them accessible and engaging. Gamification elements are intelligently integrated to transform learning into a memorable adventure. With an engaging interface and a game structure that values progression and education, HackQuest emerges as an essential tool in the educational arsenal of technology enthusiasts, security professionals, and digital enthusiasts. In summary, this serious game is a feat that combines pedagogical depth with the excitement of gaming.
